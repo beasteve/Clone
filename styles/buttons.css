@@ -1,0 +1,119 @@
+button {
+    appearance: auto;
+    writing-mode: horizontal-tb !important;
+    text-rendering: auto;
+    color: buttontext;
+    letter-spacing: normal;
+    word-spacing: normal;
+    line-height: normal;
+    text-transform: none;
+    text-indent: 0px;
+    text-shadow: none;
+    display: inline-block;
+    text-align: center;
+    align-items: flex-start;
+    cursor: default;
+    box-sizing: border-box;
+    background-color: buttonface;
+    margin: 0em;
+    padding: 1px 6px;
+    border-width: 2px;
+    border-style: outset;
+    border-color: buttonborder;
+    border-image: initial;
+}
+
+.buttons {
+    display: flex;
+    align-items: center;
+}
+
+.buttons {
+    display: flex !important;
+    justify-content: space-between !important;
+}
+
+.download-btn,
+.open-btn {
+    padding: 20px 20px;
+    margin: 40px 10px;
+    font-family: 'Roboto', sans-serif;
+    border-radius: 30px;
+    border: none;
+}
+
+.download-windows {
+    padding-left: 10px;
+    font-size: 20px;
+}
+
+.download-btn,
+.open-btn {
+    padding: 20px 20px;
+    margin: 40px 10px;
+    font-family: 'Roboto', sans-serif;
+    border-radius: 30px;
+    border: none;
+}
+
+.download-flex {
+    display: flex;
+    align-items: center;
+}
+
+
+.download-btn,
+.open-btn {
+    padding: 20px 20px;
+    margin: 40px 10px;
+    font-family: 'Roboto', sans-serif;
+    border-radius: 30px;
+    border: none;
+}
+
+.discord-open {
+    font-size: 20px;
+}
+
+.download-windows {
+    padding-left: 10px;
+    font-size: 20px;
+}
+
+.open-btn {
+    background-color: #000;
+    color: #fff;
+}
+
+.download-btn,
+.open-btn {
+    padding: 20px 20px;
+    margin: 40px 10px;
+    font-family: 'Roboto', sans-serif;
+    border-radius: 30px;
+    border: none;
+}
+
+.buttons {
+    display: flex;
+    -webkit-box-pack: justify;
+    justify-content: space-between;
+}
+
+.download-btn,
+.open-btn {
+    padding: 20px 20px;
+    margin: 40px 10px;
+    font-family: 'Roboto', sans-serif;
+    border-radius: 30px;
+    border: none;
+}
+
+.download-btn,
+.open-btn {
+    padding: 20px 20px;
+    margin: 40px 10px;
+    font-family: 'Roboto', sans-serif;
+    border-radius: 30px;
+    border: none;
+}
